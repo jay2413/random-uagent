@@ -3,8 +3,7 @@
  * Random user agent creator
  * @since Sep 4, 2011
  * @version 1.0
- * @link http://360percents.com/
- * @author Luka Pušić <pusic93@gmail.com>
+ * @author Luka Pušić <luka@pusic.com>
  */
 
 /**
